@@ -6,6 +6,7 @@ Ejercicio de la serie de vídeos de Elliot Marquez sobre polymer 2
 Para poder ejecutar el proyecto se requiere.
 
   - Tener instalado Node.js
+  - Temer instalado Git
   - Tener instalado bower
   - Tener instalado polymer-CLI
 
